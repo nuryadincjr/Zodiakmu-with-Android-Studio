@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Zodiakmu</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_about">Tentang Saya</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="todo_img">Gambar Zodiak</string>
+    <string name="todo_author">gambar autor</string>
+
+    <string name="text_zodiak">Detail Zodiak</string>
+    <string name="text_name">Nama Zodiak</string>
+    <string name="text_brith">Tanggal Kelahiran</string>
+    <string name="autor_name">NURYADIN ABUTANI</string>
+    <string name="author_npm">19552011182</string>
+
+
+    <string-array name="zodiak_name">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagitarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="zodiak_image">
+        <item>@drawable/aries_lg</item>
+        <item>@drawable/taurus_lg</item>
+        <item>@drawable/gemini_lg</item>
+        <item>@drawable/cancer_lg</item>
+        <item>@drawable/leo_lg</item>
+        <item>@drawable/virgo_lg</item>
+        <item>@drawable/libra_lg</item>
+        <item>@drawable/scorpio_lg</item>
+        <item>@drawable/sagittarius_lg</item>
+        <item>@drawable/capricorn_lg</item>
+        <item>@drawable/aquarius_lg</item>
+        <item>@drawable/pisces_lg</item>
+    </string-array>
+
+    <string-array name="zodiak_birth">
+        <item>21 Mar-20 Apr</item>
+        <item>21 Apr-21 Mei</item>
+        <item>22 Mei-21 Jun</item>
+        <item>22 Jun-22 Jul</item>
+        <item>23 Jul-22 Agt</item>
+        <item>22 Agt-22 Sep</item>
+        <item>24 Sep-23 Okt</item>
+        <item>24 Okt-22 Nov</item>
+        <item>23 Nov-21 Des</item>
+        <item>22 Des-20 Jan</item>
+        <item>21 Jan-19 Feb</item>
+        <item>20 Feb-20 Mar</item>
+    </string-array>
+
+    <string-array name="zodiak_detail">
+        <item>Agar perjalanan kariermu semakin bagus, kamu perlu meningkatkan wawasan dan keahlian. Jangan lupakan dua hal tersebut. Keuangan: dana investasi dan jaminan hari tua tidak boleh diganggugugat. Asmara: api asmaramu sedang membara. Bagi kamu yang saat ini melajang, kamu akan segera menemui belahan jiwa.</item>
+        <item>Ada baiknya kamu mulai membuka diri dengan cara berpikir orang lain agar masalahmu yang berkaitan dengan hubungan sosial bisa segera teratasi. Keuangan: hati-hati dengan krisis keuangan di pertengahan bulan. Asmara: kisah cinta yang sempat layu tampaknya akan mekar kembali.</item>
+        <item>Apapun yang terjadi hari ini, kamu harus tetap bersikap hati-hati. Jangan menyerah dengan hal-hal yang selama ini kamu perjuangkan. Keuangan: tidak perlu iri dengan kondisi keuangan orang lain. Asmara: kamu akan menjadi sosok yang lebih bijaksana karena beberapa masalah cinta di masa lalu.</item>
+        <item>Hari ini kamu cenderung menghabiskan waktu di rumah bersama keluarga dan orang-orang terdekat. Keuangan: masih cukup aman. Asmara: ada kenangan manis tentang seseorang yang muncul dalam benakmu. Nikmati saja kenangan itu sebagai sesuatu yang telah memberi kamu pelajaran berharga.</item>
+        <item>Ada hal yang akan membuat kamu merasa bingung. Hal itu berkaitan dengan niat, keinginan, dan impianmu selama ini. Keuangan: cenderung stabil meski pemasukan hari ini tidak cukup besar. Asmara: tidak perlu melakukan hal gila hanya karena cintamu ditolak.</item>
+        <item>Kamu akan diperhadapkan dengan situasi sulit. Meski demikian, tetaplah tenang dan jadi diri sendiri. Setiap hal selalu memiliki akhirnya. Keuangan: tidak ada salahnya jika ingin memiliki bisnis kecil kecilan. Asmara: semakin cinta dan sayang dengan si dia.</item>
+        <item>Kamu memang bukan sosok yang suka dengan kepopuleran, tetapi sikap terbuka dan ramahmu telah menarik perhatian banyak orang. Senyum kamu memiliki efek besar untuk menyemangati orang lain. Keuangan: jangan gegabah meminjam uang ke bank. Asmara: muncul niat untuk melanjutkan hubungan ke arah yang lebih serius.</item>
+        <item>Cara berpikir yang baik akan menuntunmu ke titik-titik kehidupan yang lebih stabil. Jangan lelah untuk terus belajar. Keuangan: tidak perlu khawatirkan hari esok. Hari esok memiliki kesusahannya sendiri. Asmara: siap menyongsong cinta dan masa depan yang baru.</item>
+        <item>Orang orang yang tidak kamu duga akan memberi kejutan kepadamu. Awalnya merasa sangat kaget tapi kamu sangat menyukai hal itu. Keuangan: mulai berhemat jika tidak ingin merasakan kesusahan di akhir bulan nanti. Asmara: jika dia benar-benar jodoh kamu, dia tak akan ke mana-mana.</item>
+        <item>Perluas lingkungan pertemanan dan jaringan kerjamu. Sesuatu yang baik sudah menanti kamu di d epan sana. Keuangan: mencoba berinvesta si kecil kecilan. Asmara: perjalanan romansa kamu hari berjalan baik. Kamu harus mensyukuri hal itu.</item>
+        <item>Di tengah cuaca yang tidak menentu saat ini, kamu harus selalu menjaga kesehatan. Hal apapun bisa kamu kerjakan asal kamu sehat. Makan teratur dan istirahat dengan baik. Keuangan: harus banyak belajar mengelola keuangan secara rapi. Asmara: jangan larut dengan kenangan masa lalu.</item>
+        <item>Tidak ada masalah serius yang berkaitan dengan karier kamu hari ini. Itu semua berkat kerja kerasmu di waktu yang lalu. Keuangan: sisihkan sedikit uang untuk memberi sesuatu kepada orang-orang yang kamu cintai. Asmara: diam-diam dia merasa senang dengan kejutan yang kamu berikan.</item>
+    </string-array>
+</resources>
