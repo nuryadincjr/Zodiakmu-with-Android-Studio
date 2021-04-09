@@ -1,10 +1,10 @@
-# Zodiakku-with-Android-Studio
+# Zodiakmu-with-Android-Studio
 
 Implementation UTS of Android Studio
 
 ## Screenshots
 
-<img src="https://github.com/abugrayhat/Zodiakku-with-Android-Studio/blob/main/imgView/1.png" width="233" height="483"> <img src="https://github.com/abugrayhat/Zodiakku-with-Android-Studio/blob/main/imgView/2.png" width="233" height="483"> <img src="https://github.com/abugrayhat/Zodiakku-with-Android-Studio/blob/main/imgView/3.png" width="233" height="483">
+<img src="https://github.com/abugrayhat/Zodiakmu-with-Android-Studio/blob/main/imgView/1.png" width="233" height="483"> <img src="https://github.com/abugrayhat/Zodiakmu-with-Android-Studio/blob/main/imgView/2.png" width="233" height="483"> <img src="https://github.com/abugrayhat/Zodiakmu-with-Android-Studio/blob/main/imgView/3.png" width="233" height="483">
 
 ## Informations
 
